@@ -15,6 +15,8 @@ www.python.org
   
  
 ### 2. Jupyter Notbook(주피터 노트북) 설치
+ - 주피터 노트북 사용방법: https://greeksharifa.github.io/references/2019/01/26/Jupyter-usage/
+ - 주피터 노트북 extention  설치: https://junpyopark.github.io/Jupyter_Extension/
 
 
 ### 3. 수업시간에 사용할 라이브러리
